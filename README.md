@@ -1,2 +1,2 @@
 # Sneaker-Bot
-Sneaker bot created over the summer to see if I could create a bot that could automatically buy shoes for me the moment the shoes release.
+An innovative prooject developed during the summer months to explore the capabilities of automated purchasing. My program is designed to streamline the process of purchasing highly coveted shoes that enables users to make purchases the moment shoes are released. With Sneaker-Bot, you'll be able to experience a highly advanced and efficient approach to online shopping, providing convenience and ease-of-use.
